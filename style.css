@@ -44,7 +44,7 @@
   grid-gap: 10px;
   grid-template-areas: "header header"
   "left right" "footer footer";
-  grid-template-columns: 300px 1000px;
+  grid-template-columns: 500px 1000px;
   grid-template-rows: 100px 1000px 100px;
     
 }
@@ -74,6 +74,7 @@ header {
 .left {
   background-color: #FFFFFF;
   grid-area: left;
+  border: 3px ridge black;
 }
 
 img {
