@@ -46,7 +46,7 @@
   grid-template-areas: "header header"
   "left right" "footer footer";
   grid-template-columns: 200px 800px;
-  grid-template-rows: 90px 1000px 90px;
+  grid-template-rows: 90px 1200px 90px;
   justify-content: center;
     
 }
