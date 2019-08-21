@@ -40,7 +40,7 @@
   display: grid;
   max-width: 1500px;
   position: relative;
-  margin: auto;
+  margin: 0 auto;
   grid-gap: 10px;
   grid-template-areas: "header header"
   "left right" "footer footer";
