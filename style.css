@@ -47,6 +47,7 @@
   "left right" "footer footer";
   grid-template-columns: 300px 900px;
   grid-template-rows: 100px 800px 100px;
+  justify-content: center;
     
 }
 
