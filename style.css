@@ -44,7 +44,7 @@
   grid-gap: 10px;
   grid-template-areas: "header header"
   "left right" "footer footer";
-  grid-template-columns: 500px 1000px;
+  grid-template-columns: 300px 800px;
   grid-template-rows: 100px 1000px 100px;
     
 }
@@ -59,7 +59,7 @@ h1 {
   text-align: left;
   font-size: 20px;
   line-height: 25px;
-  word-spacing: 15px;
+  word-spacing: 10px;
   letter-spacing: 3px;
   color: red;
   border: 3px ridge black;
