@@ -68,6 +68,7 @@ h1 {
 header {
   background-color: #FFFFFF;
   grid-area: header;
+  border: 3px ridge black;
 }
 
 
@@ -91,4 +92,5 @@ img {
 footer {
   background-color: #FFFFFF;
   grid-area: footer;
+  border: 3px ridge black;
 }
