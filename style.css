@@ -87,6 +87,7 @@ img {
 .right {
   background-color: #FFFFFF;
   grid-area: right;
+  border: 3px ridge black;
 }
 
 footer {
