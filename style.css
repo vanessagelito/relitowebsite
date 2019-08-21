@@ -38,14 +38,14 @@
 
 .container {
   display: grid;
-  max-width: 1200px;
+  max-width: 1500px;
   position: relative;
   margin: auto;
   grid-gap: 10px;
   grid-template-areas: "header header"
   "left right" "footer footer";
   grid-template-columns: 300px 600px;
-  grid-template-rows: 100px 600px 100px;
+  grid-template-rows: 100px 1000px 100px;
     
 }
 
