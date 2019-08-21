@@ -58,9 +58,9 @@ h1 {
   font-family: 'Comfortaa', cursive;
   text-align: left;
   font-size: 25px;
-  line-height: 12px;
-  word-spacing: 0.3em;
-  letter-spacing: 2px;
+  line-height: 25px;
+  word-spacing: 25px;
+  letter-spacing: 5px;
 }
 
 header {
