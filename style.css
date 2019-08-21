@@ -44,8 +44,8 @@
   grid-gap: 10px;
   grid-template-areas: "header header"
   "left right" "footer footer";
-  grid-template-columns: 300px 800px;
-  grid-template-rows: 100px 1000px 100px;
+  grid-template-columns: 300px 900px;
+  grid-template-rows: 100px 800px 100px;
     
 }
 
@@ -58,10 +58,10 @@ h1 {
   font-family: 'Comfortaa', cursive;
   text-align: left;
   font-size: 20px;
-  line-height: 25px;
-  word-spacing: 10px;
+  line-height: 30px;
+  word-spacing: 6px;
   letter-spacing: 3px;
-  color: red;
+  color: black;
   border: 3px ridge black;
 }
 
