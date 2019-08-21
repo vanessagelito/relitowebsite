@@ -64,9 +64,9 @@ h1 {
   text-align: left;
   font-size: 20px;
   line-height: 30px;
-  word-spacing: 6px;
-  letter-spacing: 3px;
-  color: black;
+  word-spacing: 4x;
+  letter-spacing: 2px;
+  color: red;
 }
 
 header {
