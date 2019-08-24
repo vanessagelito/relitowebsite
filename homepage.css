@@ -11,6 +11,7 @@ overflow: auto;
   border: 1px solid #FFFFFF;
   float: left;
   width: 300px;
+  margin: auto;
 }
 
 .gallery img{
