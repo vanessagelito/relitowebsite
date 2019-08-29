@@ -5,12 +5,15 @@ background: #FFFFFF;
 overflow: auto;
 }
 
+/*border: 5px solid red;*/
+
 .gallery{
   margin: 5px;
   border: 1px solid #FFFFFF;
   float: left;
   width: 300px;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .gallery img{
@@ -28,11 +31,10 @@ h1{
 			font-family: 'Open Sans', sans-serif;
 		}
 			
-		.container{
-			width: 800px;
+		.parent{
+			width: 840px;
 			margin-left: auto;
 			margin-right: auto;
-			border: 1px solid DarkGreen;
 		}
 		
 		.footer{
@@ -54,4 +56,3 @@ h1{
 			width: 400px;
 			float: right;
 		}
-		
