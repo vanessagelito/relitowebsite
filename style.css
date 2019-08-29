@@ -54,7 +54,7 @@
   grid-template-areas: "header header"
    "left right" "footer footer";
   grid-template-columns: 200px 700px;
-  grid-template-rows: 100px 800px 100px;
+  grid-template-rows: 100px 600px 100px;
     
 }
 
